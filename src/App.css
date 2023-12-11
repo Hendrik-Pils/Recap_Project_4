@@ -1,10 +1,1 @@
-form {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  align-items: flex-start;
-}
-
-form button {
-  width: fit-content;
-}
+@import "./components/Form/Form.css";
